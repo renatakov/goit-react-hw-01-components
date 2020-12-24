@@ -1,0 +1,72 @@
+.label{
+  margin-right: 5px;
+}
+
+.percentage{
+  margin-left: 5px;
+}
+
+.statlist{
+  display: block;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  width: 300px;
+  height: 106px;
+}
+
+.item1{
+  width: 100px;
+  height: 50px;
+  flex-flow: column;
+  align-items: center;
+  border: 1px solid gray;
+  color: aliceblue;
+  background-color: rgba(13, 151, 206, 0.925);
+}
+
+.item2{
+  width: 100px;
+  height: 50px;
+  flex-flow: column;
+  align-items: center;
+  margin-left: 102px;
+  border: 1px solid rgba(165, 42, 42, 0.801);
+  color: white;
+  background-color: rgba(107, 9, 163, 0.925);
+}
+
+.item3{
+  width: 100px;
+  height: 50px;
+  margin-left: 102px;
+  margin-top: -104px;
+  flex-flow: column;
+  align-items: center;
+  border: 1px solid rgba(255, 238, 0, 0.801);
+  color: white;
+  background-color: rgb(221, 35, 35);
+}
+
+.item4{
+  width: 100px;
+  height: 50px;
+  margin-left: 202px;
+  margin-top: -53px;
+  flex-flow: column;
+  align-items: center;
+  border: 1px solid rgba(255, 238, 0, 0.801);
+  color: white;
+  background-color: rgb(15, 143, 160);
+}
+
+.statisticses{
+  padding: 10px;
+  justify-content: center;
+  margin-left: 530px;
+}
+
+.title{
+  margin-left: 70px;
+}

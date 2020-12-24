@@ -1,0 +1,24 @@
+.transactionHistory{
+  flex-flow: column;
+  border: 1px solid black;
+  padding: 10px;
+  margin-left: 570px;
+  justify-content: center;
+  align-items: center;
+  background-color:  rgb(19, 212, 19);
+  box-shadow: 0 0 25px rgb(37, 37, 37);
+  border-radius: 20px;
+}
+
+.tdType{
+  border: 2px solid rgb(37, 37, 37);
+  color: honeydew;
+}
+
+.tdAmount{
+  color: white;
+}
+
+.tdCurrency{
+  color: white;
+}

@@ -1,0 +1,48 @@
+.profile {
+  display: flex;
+  flex-flow: column;
+  width: 300px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  align-items: center;
+  justify-content: center;
+  margin-left: 550px;
+}
+
+.avatar {
+  border-radius: 40%;
+}
+
+.name {
+  color: rgb(105, 221, 75);
+  font-size: 22px;
+}
+
+.tag {
+  color: rgb(184, 170, 95);
+  font-size: 18px;
+}
+
+.location {
+  color: gray;
+  font-size: 20px;
+}
+
+.followers {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: rgb(255, 79, 79);
+}
+
+.likes {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: rgb(20, 37, 136);
+}
+
+.views {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: rgb(255, 136, 0);
+}
